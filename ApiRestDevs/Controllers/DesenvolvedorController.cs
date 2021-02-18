@@ -119,7 +119,7 @@ namespace ApiRestDevs.Controllers
                 }
                 else
                 {
-                    throw new Exception("Desenvolvedor não encontrado!");
+                    throw new Exception("Desenvolvedor nao encontrado");
                 }
             }
             catch (Exception e)
